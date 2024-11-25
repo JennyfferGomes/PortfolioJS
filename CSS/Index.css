@@ -1,0 +1,315 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+#reg {
+    margin-right: 500px;
+    margin-left: 40px;
+    margin-top: 500px;
+}
+
+.container1 {
+    background-color: #703030;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+section {
+    border-style: none;
+    width: 40%;
+    float: left;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+header>nav>a {
+    color: #E9DAAF;
+    margin: 0em 1em;
+    text-decoration: none;
+}
+
+header {
+    padding-top: 1em;
+}
+
+a:hover {
+    color: #758295;
+}
+
+body {
+    background-color: #f2d9c5;
+}
+
+/*SOBRE MIM*/
+.sct2 {
+    border-style: none;
+    display: flex;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #2F343B;
+    font-size: x-large;
+}
+
+.sct3 {
+    border-style: none;
+    float: left;
+    height: 250px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 15px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f2d9c5;
+}
+
+#img2{
+    height: 90%;
+    width: 95%;
+    margin-left: 2%;
+    
+}
+
+.figura2 {
+    width: 343px;
+    padding: 8px;
+    height: 453px;
+    border: 0;
+    margin: 50px;
+    margin-top: 50px;
+    float: left;
+    background-color: #2F343B;
+}
+
+/*HOME*/
+
+
+.figura1 {
+    width: 250px;
+    padding: 8px;
+    height: 360px;
+    border: 0;
+    margin-left: 50px;
+    margin-top: 150px;
+    float: left;
+    background-color: #2F343B;
+}
+
+.figura3 {
+    width: 250px;
+    padding: 8px;
+    height: 360px;
+    border: 0;
+    margin: 50px;
+    margin-top: 150px;
+    float: left;
+    background-color: #2F343B;
+}
+
+.figura4 {
+    width: 250px;
+    padding: 8px;
+    height: 360px;
+    border: 0;
+    margin: 50px;
+    margin-top: 150px;
+    float: left;
+    background-color: #2F343B;
+}
+
+a {
+    color: #E9DAAF;
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#thome {
+    margin-top: 300px;
+    font-size: x-large;
+    text-align: right;
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+    border-style: none;
+    color: darkred;
+    height: 200px;
+    width: 400px;
+}
+
+.img1 {
+    height: 89%;
+    width: 100%;
+    margin-right: 2%;
+}
+
+.img3 {
+    height: 89%;
+    width:100%;
+    margin-right: 2%;
+
+}
+
+.img4 {
+    height: 89%;
+    width: 100%;
+    margin-right: 2%;
+
+}
+
+/*PROJETOS*/
+
+#link {
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+#link:hover {
+    color: #12171d;
+}
+
+#h12 {
+    padding: 15px;
+    color: #2F343B;
+   
+}
+
+#main1{
+    margin: 2%;
+}
+
+#footer1{
+    margin: 2%;
+}
+
+.sct4 {
+    border-style: none;
+    float: left;
+    height: 260px;
+    margin-left: 60px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    width: 600px;
+    font-size: large;
+}
+
+#p7 {
+    border-style: none;
+    float: inline-start left;
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#a3:hover {
+    color: #7E827A;
+}
+
+
+
+/*CONTATO*/
+
+.btn:hover {
+    background-color: transparent;
+    background-color: #57616f;
+}
+
+.btn {
+    background-color: transparent;
+    container: none;
+    margin-top: 50px;
+    margin-right: 500px;
+    margin-left: 32px;
+}
+
+
+.container5 {
+    display: flex;           
+    justify-content: space-evenly ;  
+    gap: 20px;               
+}
+
+.figura8, .figura9, .figura10 {
+    width: 303px;
+    height: 460px;
+    padding: 8px;
+    background-color: #2F343B;
+    border: 0;
+    margin: 1%;
+   
+}
+
+#img7, #img8, #img9 {
+    height: 250px;
+    width: 249px;
+}
+
+.figura8 {
+    background-color: #2F343B;
+}
+
+.figura9 {
+    background-color: #2F343B;
+}
+
+.figura10 {
+    background-color: #3b2f2f;
+}
+
+#img7 {
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    height: 250px;
+    width: 249px;
+
+}
+
+#img8 {
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+
+}
+
+#img9 {
+    margin-top: 60px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    height: 250px;
+    width: 249px;
+}
+
+.contato {
+    padding: 50px;
+    color: #703030;
+
+}
+
+/*CONTATO 02*/
+
+#figura7 {
+    width: 380px;
+    padding-left: 40px;
+    padding-right: 40;
+    padding-top: 40px;
+    height: 200px;
+    background-color: #2d323b;
+}
